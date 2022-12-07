@@ -1,4 +1,4 @@
-<h1 align="center">Welcome</h1>
+👋<h1 align="center">Welcome</h1>👋
 
 ![logo](https://user-images.githubusercontent.com/71443175/206121868-7f9e9333-ce20-4b01-a227-667c9ae6154a.png)
 
