@@ -4,7 +4,7 @@
 
 <h2 align="center">SteepDive Studio is a small studio based in Hungary.</h2>
 
-<h4>We are currently developing a survival game, Antidote.</h4>
+<h4 align="center">We are currently developing a survival game, Antidote.</h4>
 
 
 
